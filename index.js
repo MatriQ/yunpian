@@ -1,4 +1,8 @@
 'use strict';
+
+var qs=require('qs');
+var https=require('https');
+
 /*
 * 云片短信网关
 */
