@@ -1,8 +1,5 @@
 {
   "name": "yunpian",
-  "dependencies": {
-    "qs": "^6.1.0"
-  },
   "bugs": {
     "url": "https://github.com/MatriQ/yunpian/issues/"
   },
