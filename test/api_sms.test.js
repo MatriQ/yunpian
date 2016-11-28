@@ -8,8 +8,8 @@ describe('api_sms', function() {
   describe('sendSms', function() {
     it('should send message to mobile', function(done) {
       api.sendSms({
-        mobile: 13915586260,
-        text: "【翼起学】您的验证码是1234"
+        mobile: 18615707343,
+        text: "【BD游戏】传说中，BD游戏平台曾送给有缘人无数的宝贝：爱疯、薯片、鸭蛋......当您成功注册BD游戏帐号的那一刻，就获得了抽取宝贝的机缘，快登陆APP领取属于您的宝藏吧！GO！"
       }, function(err, result) {
         should.not.exist(err);
         should.exist(result);
