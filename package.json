@@ -12,7 +12,9 @@
     "tape": "^3.0.3",
     "which": "^1.0.8",
     "https": "^1.0.0",
-    "querystring": "^0.2.0"
+    "querystring": "^0.2.0",
+    "mocha": "*",
+    "should.js": "*"
   },
   "directories": {},
   "files": [
