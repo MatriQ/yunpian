@@ -1,5 +1,5 @@
 {
-  "name": "yunpian",
+  "name": "yunpian_promise",
   "bugs": {
     "url": "https://github.com/MatriQ/yunpian/issues/"
   },
@@ -12,7 +12,8 @@
   "files": [
     "LICENSE",
     "README.md",
-    "index.js"
+    "index.js",
+    "lib/"
   ],
   "homepage": "https://github.com/MatriQ/yunpian",
   "keywords": [
@@ -31,7 +32,7 @@
   "scripts": {
     "test": "mocha ./test/test.all.js"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "underscore": "*",
     "urllib": "*"
